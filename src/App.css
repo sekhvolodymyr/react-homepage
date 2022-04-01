@@ -63,12 +63,14 @@ li a:hover:not(.active) {
 
 .my-head{
   display: flex;
+  color: white;
 }
 .head-img{
  padding-left: 3%;
+ width: 20%;
 }
 .head-txt{
-  width: 50%;
+  width: 60%;
   margin-left: 10%;
 }
 .main-txt{
@@ -76,12 +78,6 @@ li a:hover:not(.active) {
   text-align: justify;
   letter-spacing: 3px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body{
+  background-color: black;
 }

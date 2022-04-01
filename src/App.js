@@ -1,5 +1,6 @@
 import './App.css';
 import Menu from './Menu'
+import MyHeader from './MyHeader';
 
 function App() {
   return (
@@ -7,6 +8,9 @@ function App() {
 
         <div className ="MyMenu">
       <Menu/>
+      </div>
+      <div className = "myheader">
+        <MyHeader/>
       </div>
     </div>
   );

@@ -61,6 +61,22 @@ li a:hover:not(.active) {
   margin-left: 35%;
 }
 
+.my-head{
+  display: flex;
+}
+.head-img{
+ padding-left: 3%;
+}
+.head-txt{
+  width: 50%;
+  margin-left: 10%;
+}
+.main-txt{
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

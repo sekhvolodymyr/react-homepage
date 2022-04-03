@@ -54,9 +54,11 @@ export default function Main(){
                 <div style={styles.mnBc}>
                     <img style={styles.mnimg} src="apple 13 pro.jpg"></img>
                     <div>
-                        <h1>Tile 3 heading</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                        Ipsum eligendi laudantium architecto ratione</p>
+                        <h1>Apple iPhone 13 Pro</h1>
+                        <p>Model:Apple iPhone 13 Pro 256Gb Sierra Blue<br/>
+                            Sim: e-SIM, Nano-SIM<br/>
+                            Screen resolution: 2532х1170<br/>
+                            Color: Blue</p>
                     </div>
                 </div>
 

@@ -8,7 +8,7 @@ export default  function Menu(){
   <li>
   <a className="navbar-brand" href="#home">
       
-            <img src="./logo192.png" width="24" alt="logo" height="24"></img>
+            <img src="./apple.png" width="24" alt="logo" height="24"></img>
       
 </a>
   </li>

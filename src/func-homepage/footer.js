@@ -61,14 +61,13 @@ return(
             <div style={styles.ftHead}>
                  <div style={styles.flxbc}>
 
-                    <h4>Branding Stuff</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                        Ipsum eligendi laudantium architecto ratione
+                    <h4>Apple store</h4>
+                    <p>Think different
                     </p>
                  </div>
                  <div style={styles.flxbc}>
                      
-                     <img style={styles.ftlog} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLmxY1nX_PhnFmemlGHXIz2S3zJHLvkzTPDUshA9928X5ZJ-Q-_MG5p0URvWxWD0dkow&usqp=CAU"></img>
+                     <img style={styles.ftlog} src="./apple.png"></img>
                      
                      </div>
                  <div style={styles.flxbc}>
@@ -83,7 +82,7 @@ return(
             </div>
         <hr style={styles.fthr}></hr>
             <div style={styles.ftft}>
-                 <p>2022 IoT © Copyright namesite All Rights Reserved</p>
+                 <p>2022 Apple store © Copyright namesite All Rights Reserved</p>
              </div>
     </div>
 );

@@ -67,7 +67,7 @@ return(
                  </div>
                  <div style={styles.flxbc}>
                      
-                     <img style={styles.ftlog} src="./apple.png"></img>
+                     <img style={styles.ftlog} src="./apple.png" alt="apple logo"></img>
                      
                      </div>
                  <div style={styles.flxbc}>
@@ -76,8 +76,6 @@ return(
                      <a href="#" style={styles.fticonst}><i className="fab fa-instagram"></i></a>
                      <a href="#" style={styles.fticonst}><i className="fab fa-pinterest"></i></a>
                      <a href="#" style={styles.fticonst}><i className="fa-brands fa-facebook"></i></a>
-
-                    
                  </div>
             </div>
         <hr style={styles.fthr}></hr>

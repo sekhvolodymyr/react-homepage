@@ -31,7 +31,7 @@ export default function Main(){
 
         <div style={styles.cnt}>
                 <div style={styles.mnBc}>
-                    <img style={styles.mnimg} src="apple 13.jpg"></img>
+                    <img style={styles.mnimg} src="apple 13.jpg" alt="iPhone 13 Starlight"></img>
                     <div>
                         <h1>Apple iPhone 13</h1>
                         <p>Model:Apple iPhone 13 128Gb Starlight<br/>
@@ -42,7 +42,7 @@ export default function Main(){
                     </div>
                 </div>
                 <div style={styles.mnBc}>
-                    <img style={styles.mnimg} src="apple 13 pink.jpg"></img>
+                    <img style={styles.mnimg} src="apple 13 pink.jpg" alt = "iPhone 13 pink"></img>
                     <div>
                         <h1>Apple iPhone 13</h1>
                         <p>Model:Apple iPhone 13 256Gb Pink<br/>
@@ -52,7 +52,7 @@ export default function Main(){
                     </div>
                 </div>
                 <div style={styles.mnBc}>
-                    <img style={styles.mnimg} src="apple 13 pro.jpg"></img>
+                    <img style={styles.mnimg} src="apple 13 pro.jpg" alt="iPhone 13 pro"></img>
                     <div>
                         <h1>Apple iPhone 13 Pro</h1>
                         <p>Model:Apple iPhone 13 Pro 256Gb Sierra Blue<br/>

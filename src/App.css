@@ -82,6 +82,9 @@ li a:hover:not(.active) {
   margin-left: 65%;
   font-size: 1.5vw;
 }
+.search-input{
+  padding-top: 1.2%;
+}
 body{
   background-color: black;
 }
